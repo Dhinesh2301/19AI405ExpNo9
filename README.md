@@ -30,12 +30,12 @@ PROGRAM
         ["Smell","Save","Breeze","Save"],
         ["WUMPUS","GOLD","PIT","Breeze"],
         ["Smell","Save","Breeze","PIT"]]
-    row=0
-   column=0
-  arrow=True
-  player=True
-  score=0
-   while(player):
+row=0
+column=0
+arrow=True
+player=True
+score=0
+while(player):
     choice=input("press u to move up\npress d to move down\npress l to move left\npress r to move right\n")
     if choice == "u":
         if row != 0:
