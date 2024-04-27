@@ -30,13 +30,15 @@ PROGRAM
 
   
   
-  wumpus=[["Save","Breeze","PIT","Breeze"],
+  
+      wumpus=[["Save","Breeze","PIT","Breeze"],
        
         ["Smell","Save","Breeze","Save"],
        
         ["WUMPUS","GOLD","PIT","Breeze"],
        
         ["Smell","Save","Breeze","PIT"]]
+   
    row=0
    
    column=0
