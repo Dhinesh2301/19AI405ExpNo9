@@ -28,7 +28,9 @@ PROGRAM
 
 
 
-wumpus=[["Save","Breeze","PIT","Breeze"],
+  
+  
+  wumpus=[["Save","Breeze","PIT","Breeze"],
        
         ["Smell","Save","Breeze","Save"],
        
