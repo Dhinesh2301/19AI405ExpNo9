@@ -1,5 +1,5 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name: DHINESH R N</h3>
+<h3>Name: DHINESH R </h3>
 <h3>Register Number: 212223220019</h3>
 <H3>Aim:</H3>
 <p>
@@ -31,13 +31,13 @@ PROGRAM
   
   
   
-      wumpus=[["Save","Breeze","PIT","Breeze"],
+    wumpus=[["Save","Breeze","PIT","Breeze"],
        
-        ["Smell","Save","Breeze","Save"],
+            ["Smell","Save","Breeze","Save"],
        
-        ["WUMPUS","GOLD","PIT","Breeze"],
+            ["WUMPUS","GOLD","PIT","Breeze"],
        
-        ["Smell","Save","Breeze","PIT"]]
+            ["Smell","Save","Breeze","PIT"]]
    
    row=0
    
