@@ -26,7 +26,7 @@ It is assumed that there will always be a safe path that the agent can take to e
 
 PROGRAM
 
-   wumpus=[["Save","Breeze","PIT","Breeze"],
+wumpus=[["Save","Breeze","PIT","Breeze"],
         ["Smell","Save","Breeze","Save"],
         ["WUMPUS","GOLD","PIT","Breeze"],
         ["Smell","Save","Breeze","PIT"]]
