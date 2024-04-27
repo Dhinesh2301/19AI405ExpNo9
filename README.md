@@ -1,6 +1,6 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
 <h3>Name: DHINESH R N</h3>
-<h3>Register Number/Staff Id: 212223220019</h3>
+<h3>Register Number: 212223220019</h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
@@ -37,11 +37,15 @@ PROGRAM
         ["WUMPUS","GOLD","PIT","Breeze"],
        
         ["Smell","Save","Breeze","PIT"]]
-row=0
-column=0
-arrow=True
-player=True
-score=0
+   row=0
+   
+   column=0
+   
+   arrow=True
+   
+   player=True
+   
+   score=0
 while(player):
     choice=input("press u to move up\npress d to move down\npress l to move left\npress r to move right\n")
     if choice == "u":
